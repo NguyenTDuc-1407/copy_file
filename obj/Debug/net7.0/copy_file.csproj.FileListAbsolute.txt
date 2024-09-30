@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\copy_file\bin\Debug\net7.0\copy_file.exe
+C:\Users\ASUS\Desktop\New folder\copy_file\bin\Debug\net7.0\copy_file.deps.json
+C:\Users\ASUS\Desktop\New folder\copy_file\bin\Debug\net7.0\copy_file.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\copy_file\bin\Debug\net7.0\copy_file.dll
+C:\Users\ASUS\Desktop\New folder\copy_file\bin\Debug\net7.0\copy_file.pdb
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.dll
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\refint\copy_file.dll
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.pdb
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\copy_file.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\copy_file\obj\Debug\net7.0\ref\copy_file.dll
